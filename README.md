@@ -1,4 +1,5 @@
 - This is todo list app
 - it has features like adding new task, cheking it when it's completed and deleting it
 - Firebase is used for manipulating data
+- This is responsive app
 - Demo of the app is available [here](https://todo-list-4yt8uj7a7-josipavidulic.vercel.app/).
